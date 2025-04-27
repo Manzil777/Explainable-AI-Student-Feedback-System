@@ -4,7 +4,6 @@ about: Report a bug, suggest an enhancement, or request a new feature.
 title: "[BUG] <short description>" or "[FEATURE] <short description>"
 labels: bug, enhancement
 assignees: ''
-
 ---
 
 ## 📋 Description
