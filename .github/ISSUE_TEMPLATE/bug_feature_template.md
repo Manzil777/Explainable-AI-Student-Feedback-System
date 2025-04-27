@@ -1,11 +1,4 @@
----
-name: Bug Report / Feature Request
-about: Report a bug, suggest an enhancement, or request a new feature.
-title: "[BUG] <short description>" or "[FEATURE] <short description>"
-labels: bug, enhancement
-assignees: ''
 
----
 
 ## 📋 Description
 Please provide a clear and concise description of the problem or feature request.
